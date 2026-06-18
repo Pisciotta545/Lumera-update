@@ -1,5 +1,5 @@
 {
-  "version": "1.3.2",
+  "version": "1.3.3",
   "url": "https://github.com/pisciotta000/Lumera-update/releases/download/actualizador/Lumera_Present_Setup.exe",
-  "notas": "⚡ Conexión Inteligente Triple (LAN/Wi-Fi/Nube). 📤 Transferencia ultrarrápida de archivos por red local (LAN) directa. ⭐ Sincronización de Favoritos bidireccional en tiempo real."
+  "notas": "📤 Barra de progreso y peso del archivo en tiempo real al transferir desde el celular. 🧹 Los archivos enviados se borran solos de Google Drive apenas llegan a la PC. ⌨️ Se quitó el atajo F9 (usá F2 para tapar la letra). ✨ Mejoras de estabilidad."
 }
