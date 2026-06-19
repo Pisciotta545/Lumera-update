@@ -1,5 +1,5 @@
 {
-  "version": "1.3.4",
+  "version": "1.3.5",
   "url": "https://github.com/pisciotta000/Lumera-update/releases/download/actualizador/Lumera_Present_Setup.exe",
-  "notas": "🎵 Nueva opción en Ajustes: \"Estrofas en una sola línea\" muestra cada estrofa en un solo renglón al proyectar (reversible y sin modificar tus canciones). ✨ Mejoras internas."
+  "notas": "🔐 Nuevo: cuentas de usuario. Entrá a Ajustes → \"Cuenta / Sincronización\" y creá tu cuenta; es la base para guardar y sincronizar tus datos en la nube (próximamente). ✨ Mejoras internas."
 }
