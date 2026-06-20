@@ -1,5 +1,5 @@
 {
-  "version": "1.3.6",
+  "version": "1.3.7",
   "url": "https://github.com/pisciotta000/Lumera-update/releases/download/actualizador/Lumera_Present_Setup.exe",
-  "notas": "🔐 Más seguro: al crear tu cuenta ahora te llega un código de verificación por email (evita registros de bots). Entrá a Ajustes → \"Cuenta / Sincronización\". ✨ Mejoras internas."
+  "notas": "☁️ Ya podés conectar tu Google Drive desde Ajustes → Cuenta (botón \"Conectar Google Drive\"). Tus archivos se guardarán en tu propio Drive, en la carpeta \"Lumera Present\". Es el paso previo a la sincronización en la nube. ✨ Mejoras internas."
 }
