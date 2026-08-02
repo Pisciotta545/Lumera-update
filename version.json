@@ -1,5 +1,5 @@
 {
-  "version": "2.1.4",
+  "version": "2.1.5",
   "url": "https://github.com/pisciotta000/Lumera-update/releases/download/actualizador/Lumera_Present_Setup.exe",
-  "notas": "Lumera Present 2.1.4 — 🖥️ Vista previa en vivo del proyector en la ventana de control: ves exactamente lo que sale en la pantalla del público (título, versículo, canción, cuenta regresiva, aviso, imagen y video). 📖 Descargá biblias desde internet con buscador (NTV, RV1960, NVI, LBLA y más) o agregalas desde la PC. 🔎 Salto rápido: al escribir la cita (ej. 'jn 3 16') el navegador salta y resalta ese versículo para verlo con los demás. 🕐 Reloj con la hora en la lista de reproducción de la Biblia. 🖼️ Al agregar imágenes de presentación rápida ahora ves una vista previa de la que elegís y podés seleccionar varias."
+  "notas": "Lumera Present 2.1.5 — 🔔 Avisos claros: cuando el celular te manda un título o un archivo (por WiFi o por la Nube) te aparece '✅ Título/Archivo recibido' o '⛔ Error al recibir'. 📊 Los envíos por WiFi ahora muestran la barra de progreso con peso y porcentaje, igual que por la Nube. 💾 Al guardar un título te avisa con '✅ Título guardado'. 🖥️ En Canciones los avisos ya no quedan tapados por la vista previa (se muestran completos arriba de ella). ⬆️ El cartel de actualización ahora muestra bien los botones aunque las novedades sean largas (con scroll)."
 }
