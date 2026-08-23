@@ -1,5 +1,5 @@
 {
-  "version": "2.1.5",
+  "version": "2.1.6",
   "url": "https://github.com/pisciotta000/Lumera-update/releases/download/actualizador/Lumera_Present_Setup.exe",
-  "notas": "Lumera Present 2.1.5 — 🔔 Avisos claros: cuando el celular te manda un título o un archivo (por WiFi o por la Nube) te aparece '✅ Título/Archivo recibido' o '⛔ Error al recibir'. 📊 Los envíos por WiFi ahora muestran la barra de progreso con peso y porcentaje, igual que por la Nube. 💾 Al guardar un título te avisa con '✅ Título guardado'. 🖥️ En Canciones los avisos ya no quedan tapados por la vista previa (se muestran completos arriba de ella). ⬆️ El cartel de actualización ahora muestra bien los botones aunque las novedades sean largas (con scroll)."
+  "notas": "Lumera Present 2.1.6 — 🚗 Avisos de auto desde el celular: con la nueva app 'Lumera Avisos' la gente carga la patente y la marca de un auto mal estacionado y te llega a la campana de Avisos. Podés Editar el texto o Aprobarlo para proyectarlo en la pantalla (nada se proyecta sin tu aprobación)."
 }
