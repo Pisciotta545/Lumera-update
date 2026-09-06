@@ -1,5 +1,5 @@
 {
-  "version": "2.1.8",
+  "version": "2.1.9",
   "url": "https://github.com/Pisciotta545/Lumera-update/releases/download/actualizador/Lumera_Present_Setup.exe",
-  "notas": "Lumera Present 2.1.8 — 🖼️ Imágenes rápidas renovadas: al agregar, un selector nuevo muestra tus fotos como miniaturas ordenadas por fecha (las más nuevas primero), con navegación de carpetas; las que ya agregaste quedan marcadas para no repetirlas, y ahora podés recorrer la barra con la ruedita del mouse. ⚡ Corregido un tironeo al pasar de un título o imagen a una canción, Biblia o fondo."
+  "notas": "Lumera Present 2.1.9 — 📡 NUEVO: mandá tus videos (reproductor local y YouTube) a la transmisión de OBS por NDI, CON AUDIO y de forma automática. Se envían SOLO mientras se reproducen; la Biblia, las canciones y los títulos nunca se ven en OBS. Configuralo en Especiales → OBS (sección NDI): necesitás NDI Tools (Screen Capture apuntando al monitor del proyector, con Audio Source = System Audio) y el plugin OBS-NDI."
 }
