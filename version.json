@@ -1,5 +1,5 @@
 {
-  "version": "2.2.0",
+  "version": "2.2.1",
   "url": "https://github.com/Pisciotta545/Lumera-update/releases/download/actualizador/Lumera_Present_Setup.exe",
-  "notas": "Lumera Present 2.2.0 — 📺 YouTube mejorado: ahora usa Chrome (más rápido), el VIDEO se pone en pantalla completa automáticamente y se mantiene (sin que el navegador quede en modo pantalla completa), y podés Iniciar sesión / Cambiar cuenta en una ventana que se abre en TU pantalla de control (no en el proyector), para entrar en privado. 📡 OBS por NDI: el envío de los videos (locales y de YouTube) con audio a OBS ahora está SIEMPRE activo por defecto (se puede apagar). Nunca se ven en OBS la Biblia, las canciones ni los títulos."
+  "notas": "Lumera Present 2.2.1 — 🎬 Fondo solo (F2): ahora al mostrar solo el fondo, la letra de la Biblia y de las canciones también desaparece del overlay de OBS, y vuelve a aparecer cuando mostrás la letra de nuevo. El título sigue sin mostrarse nunca en OBS."
 }
