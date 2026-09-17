@@ -1,5 +1,5 @@
 {
-  "version": "2.2.1",
+  "version": "2.2.2",
   "url": "https://github.com/Pisciotta545/Lumera-update/releases/download/actualizador/Lumera_Present_Setup.exe",
-  "notas": "Lumera Present 2.2.1 — 🎬 Fondo solo (F2): ahora al mostrar solo el fondo, la letra de la Biblia y de las canciones también desaparece del overlay de OBS, y vuelve a aparecer cuando mostrás la letra de nuevo. El título sigue sin mostrarse nunca en OBS."
+  "notas": "Lumera Present 2.2.2 — 📁 Al agregar imágenes rápidas, ahora también aparecen las carpetas de acceso directo. Si tenés un acceso directo (.lnk) a una carpeta en el Escritorio (o en cualquier carpeta), ahora se muestra con una flechita y al tocarlo entrás directo a la carpeta real con tus fotos."
 }
