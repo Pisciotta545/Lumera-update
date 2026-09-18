@@ -1,5 +1,5 @@
 {
-  "version": "2.2.2",
+  "version": "2.2.3",
   "url": "https://github.com/Pisciotta545/Lumera-update/releases/download/actualizador/Lumera_Present_Setup.exe",
-  "notas": "Lumera Present 2.2.2 — 📁 Al agregar imágenes rápidas, ahora también aparecen las carpetas de acceso directo. Si tenés un acceso directo (.lnk) a una carpeta en el Escritorio (o en cualquier carpeta), ahora se muestra con una flechita y al tocarlo entrás directo a la carpeta real con tus fotos."
+  "notas": "Lumera Present 2.2.3 — 📝 Títulos: ahora podés guardar varios títulos con nombre (con sus letras y estilo) y editarlos cuando quieras desde el nuevo panel 'Mis Títulos' (clic para editar, clic derecho para Proyectar/Renombrar/Borrar). 🖼️ Imágenes rápidas: podés ordenarlas a gusto arrastrándolas (o con clic derecho → Mover), y al ponerles nombre ahora se ve la imagen para saber cuál es cuál."
 }
