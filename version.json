@@ -1,5 +1,5 @@
 {
-  "version": "2.2.4",
+  "version": "2.2.5",
   "url": "https://github.com/Pisciotta545/Lumera-update/releases/download/actualizador/Lumera_Present_Setup.exe",
-  "notas": "Lumera Present 2.2.4 — 🛠️ Se corrigió el arrastre para reordenar las imágenes rápidas: ahora podés moverlas bien arrastrándolas (un toque simple sigue presentando la imagen). También seguís teniendo el clic derecho → Mover como alternativa."
+  "notas": "Lumera Present 2.2.5 — 📝 Títulos: el botón 'Guardar' ya no pide nombre (guarda directo; si estás editando uno de la lista lo actualiza). El nombre se pide solo al usar 'Guardar como nuevo'."
 }
