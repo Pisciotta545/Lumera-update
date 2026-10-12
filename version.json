@@ -1,5 +1,5 @@
 {
-  "version": "2.2.5",
+  "version": "2.2.6",
   "url": "https://github.com/Pisciotta545/Lumera-update/releases/download/actualizador/Lumera_Present_Setup.exe",
-  "notas": "Lumera Present 2.2.5 — 📝 Títulos: el botón 'Guardar' ya no pide nombre (guarda directo; si estás editando uno de la lista lo actualiza). El nombre se pide solo al usar 'Guardar como nuevo'."
+  "notas": "Lumera Present 2.2.6 — 🎙️ Compatible con EDITH, el asistente de voz: al pedirle un versículo (\"mostrá Juan 3:16\") lo proyecta en la versión de la Biblia que tengas elegida en Lumera."
 }
