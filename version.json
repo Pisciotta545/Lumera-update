@@ -1,5 +1,5 @@
 {
-  "version": "2.2.6",
-  "url": "https://github.com/Pisciotta545/Lumera-update/releases/download/actualizador/Lumera_Present_Setup.exe",
-  "notas": "Lumera Present 2.2.6 — 🎙️ Compatible con EDITH, el asistente de voz: al pedirle un versículo (\"mostrá Juan 3:16\") lo proyecta en la versión de la Biblia que tengas elegida en Lumera."
+  "version": "2.3.0",
+  "url": "https://github.com/Pisciotta545/Lumera-update/releases/download/actualizador/LumeraPresent-v2.3.0.exe",
+  "notas": "Lumera Present 2.3.0 — 📖 Biblias de YouVersion: descargalas para usarlas sin internet (quedan guardadas solo para Lumera). 📢 Anuncios Loop renovado: ponele nombre a cada imagen, elegí cuáles pasan, ordenalas arrastrando y escribí texto encima; se manda con F3 desde cualquier pantalla. ⏱️ Cuenta regresiva nueva: diseñala como un título, con fondo de imagen, video o de la Biblia, y elegí qué se proyecta al terminar (versículo, imagen, título o video); se manda con F4. Esc detiene los anuncios y la cuenta. 🔤 Títulos: tus títulos guardados aparecen con su letra junto a los fondos, para editarlos cuando quieras; \"Guardar como nuevo\" lo deja listo para F1. 🖼️ Imágenes rápidas por grupos, fondos con imágenes y elección de videos con miniaturas. 🎵 Importar y exportar canciones ahora están en el botón \"+ Nueva\"."
 }
