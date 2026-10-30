@@ -1,5 +1,5 @@
 {
-  "version": "2.3.1",
-  "url": "https://github.com/Pisciotta545/Lumera-update/releases/download/actualizador/LumeraPresent-v2.3.1.exe",
-  "notas": "Lumera Present 2.3.1 — 🌐 Biblias de YouVersion en línea: ahora podés usarlas sin descargarlas enteras. En ＋ → Descargar de YouVersion, elegí la versión y tocá \"Usar en línea\": queda lista en segundos y cada capítulo se trae al abrirlo. Los capítulos que ya abriste quedan guardados y siguen funcionando aunque se corte internet. En el menú aparecen como \"(YouVersion · en línea)\"."
+  "version": "2.3.2",
+  "url": "https://github.com/Pisciotta545/Lumera-update/releases/download/actualizador/LumeraPresent-v2.3.2.exe",
+  "notas": "Lumera Present 2.3.2 — 🌐 Presentaciones HTML: en Presentaciones → \"Presentación HTML\" agregá un archivo .html (por ejemplo, la presentación de la Fiesta de la Luz) y tocalo: se abre a pantalla completa en el proyector y empieza sola, con su música, voz, mapas y video. Se maneja desde Lumera con los botones o las flechas del teclado, sin controles visibles en pantalla. Esc la cierra."
 }
