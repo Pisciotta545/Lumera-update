@@ -1,5 +1,5 @@
 {
-  "version": "2.3.2",
-  "url": "https://github.com/Pisciotta545/Lumera-update/releases/download/actualizador/LumeraPresent-v2.3.2.exe",
-  "notas": "Lumera Present 2.3.2 — 🌐 Presentaciones HTML: en Presentaciones → \"Presentación HTML\" agregá un archivo .html (por ejemplo, la presentación de la Fiesta de la Luz) y tocalo: se abre a pantalla completa en el proyector y empieza sola, con su música, voz, mapas y video. Se maneja desde Lumera con los botones o las flechas del teclado, sin controles visibles en pantalla. Esc la cierra."
+  "version": "2.3.3",
+  "url": "https://github.com/Pisciotta545/Lumera-update/releases/download/actualizador/LumeraPresent-v2.3.3.exe",
+  "notas": "Lumera Present 2.3.3 — 🎵 Canciones enganchadas: clic derecho en una estrofa → \"Empieza otra canción aquí\" para marcar con colores dónde termina una canción y empieza la otra. 📖 Biblia: al agregar a la lista de reproducción podés poner el predicador (cada uno con su color), y cada versículo que pasás al público queda marcado con ✓ para no perderte (\"↺ Desmarcar pasados\" para empezar de cero). 🌐 Presentaciones HTML: se abren en modo proyector, al terminar se cierran solas y muestran la imagen que elijas (clic derecho → Imagen al terminar), y Esc las cierra también desde la presentación."
 }
