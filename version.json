@@ -1,5 +1,5 @@
 {
-  "version": "2.3.6",
-  "url": "https://github.com/Pisciotta545/Lumera-update/releases/download/actualizador/LumeraPresent-v2.3.6.exe",
-  "notas": "Lumera Present 2.3.6 — 🎨 Canva en Títulos: conectá tu Canva y lo que guardes en la carpeta «Lumera» aparece solo en Lumera (lo podés editar desde el celular o la PC). El editor de Canva se abre dentro de Lumera con el lápiz violeta. Un toque deja una imagen lista para F1 (se ve en la vista previa) y doble toque la proyecta; los diseños de varias páginas se abren en una ventana flotante. Se sacó «Mis títulos» y el botón F4 ahora dice «Cuenta regresiva»."
+  "version": "2.3.7",
+  "url": "https://github.com/Pisciotta545/Lumera-update/releases/download/actualizador/LumeraPresent-v2.3.7.exe",
+  "notas": "Lumera Present 2.3.7 — 🎨 Canva: nuevo «Cerrar sesión» en Títulos para cambiar de cuenta de Canva; al conectar, Lumera espera tu autorización en el navegador (con botón Cancelar) y, si Canva rechaza la cuenta, te muestra el motivo. Al iniciar sesión en el editor, la ventanita de Google ya no queda escondida detrás de Lumera."
 }
