@@ -1,5 +1,5 @@
 {
-  "version": "2.3.7",
-  "url": "https://github.com/Pisciotta545/Lumera-update/releases/download/actualizador/LumeraPresent-v2.3.7.exe",
-  "notas": "Lumera Present 2.3.7 — 🎨 Canva: nuevo «Cerrar sesión» en Títulos para cambiar de cuenta de Canva; al conectar, Lumera espera tu autorización en el navegador (con botón Cancelar) y, si Canva rechaza la cuenta, te muestra el motivo. Al iniciar sesión en el editor, la ventanita de Google ya no queda escondida detrás de Lumera."
+  "version": "2.3.8",
+  "url": "https://github.com/Pisciotta545/Lumera-update/releases/download/actualizador/LumeraPresent-v2.3.8.exe",
+  "notas": "Lumera Present 2.3.8 — 🎥 Nuevo vínculo con Lumera Studio (pantalla OBS → LUMERA STUDIO): lo encuentra solo en la red y le manda la letra en vivo, el título de F1, los PDF convertidos y cuándo empieza o termina un video. 🖼 Miniatura de YouTube: la foto que mandás desde el celular (Lumera Remoto → Archivos → ENVIAR MINIATURA) pasa directo a Lumera Studio. 📱 Favoritos del celular: las imágenes que cargás en Lumera Remoto ahora se proyectan bien (antes salía el fondo seleccionado) y los fondos favoritos proyectan el fondo que tocás."
 }
