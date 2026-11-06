@@ -1,5 +1,5 @@
 {
-  "version": "2.3.8",
-  "url": "https://github.com/Pisciotta545/Lumera-update/releases/download/actualizador/LumeraPresent-v2.3.8.exe",
-  "notas": "Lumera Present 2.3.8 — 🎥 Nuevo vínculo con Lumera Studio (pantalla OBS → LUMERA STUDIO): lo encuentra solo en la red y le manda la letra en vivo, el título de F1, los PDF convertidos y cuándo empieza o termina un video. 🖼 Miniatura de YouTube: la foto que mandás desde el celular (Lumera Remoto → Archivos → ENVIAR MINIATURA) pasa directo a Lumera Studio. 📱 Favoritos del celular: las imágenes que cargás en Lumera Remoto ahora se proyectan bien (antes salía el fondo seleccionado) y los fondos favoritos proyectan el fondo que tocás."
+  "version": "2.3.9",
+  "url": "https://github.com/Pisciotta545/Lumera-update/releases/download/actualizador/LumeraPresent-v2.3.9.exe",
+  "notas": "Lumera Present 2.3.9 — 📁 Grupos en la playlist de Canciones: arriba del panel PLAYLIST elegís, creás, renombrás o borrás grupos (por ejemplo «Domingo», «Jóvenes»); lo que agregás va al grupo elegido y con clic derecho podés mover una canción a otro grupo. Tu playlist de antes quedó en «General». 📱 Desde Lumera Remoto 1.1.8 podés mandar una playlist armada en el celular al grupo que elijas; las canciones que la PC no tenía se guardan solas en la biblioteca."
 }
