@@ -1,5 +1,5 @@
 {
-  "version": "2.3.9",
-  "url": "https://github.com/Pisciotta545/Lumera-update/releases/download/actualizador/LumeraPresent-v2.3.9.exe",
-  "notas": "Lumera Present 2.3.9 — 📁 Grupos en la playlist de Canciones: arriba del panel PLAYLIST elegís, creás, renombrás o borrás grupos (por ejemplo «Domingo», «Jóvenes»); lo que agregás va al grupo elegido y con clic derecho podés mover una canción a otro grupo. Tu playlist de antes quedó en «General». 📱 Desde Lumera Remoto 1.1.8 podés mandar una playlist armada en el celular al grupo que elijas; las canciones que la PC no tenía se guardan solas en la biblioteca."
+  "version": "2.4.0",
+  "url": "https://github.com/Pisciotta545/Lumera-update/releases/download/actualizador/LumeraPresent-v2.4.0.exe",
+  "notas": "Lumera Present 2.4.0 — 🎤 Pantalla de retorno para músicos y predicador (Especiales): lo que está en vivo, lo que sigue, la hora, la cuenta regresiva, un cronómetro y mensajes al escenario que el público no ve. 📢 Zócalo: avisos en una franja encima de la letra sin taparla (módulo Aviso), también al aprobar un aviso de auto. 📖 Biblia: búsqueda por palabra y dos versiones a la vez (chip «+ 2ª»). 📅 Historial de lo que se cantó y se leyó cada día (Especiales). 🎵 Arreglos de estrofas (1, coro, 2, coro) sin tocar la canción. 🖼️ Logo y superposiciones fijas encima de todo (Especiales). 📡 NDI integrado: Lumera emite la ventana del proyector con audio (ya no hace falta NDI Tools) y en Ajustes elegís qué se manda; en Lumera Studio elegí la fuente «Lumera Proyector». 📊 Los PowerPoint se importan como los PDF (Presentaciones)."
 }
