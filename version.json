@@ -1,5 +1,5 @@
 {
-  "version": "2.4.0",
-  "url": "https://github.com/Pisciotta545/Lumera-update/releases/download/actualizador/LumeraPresent-v2.4.0.exe",
-  "notas": "Lumera Present 2.4.0 — 🎤 Pantalla de retorno para músicos y predicador (Especiales): lo que está en vivo, lo que sigue, la hora, la cuenta regresiva, un cronómetro y mensajes al escenario que el público no ve. 📢 Zócalo: avisos en una franja encima de la letra sin taparla (módulo Aviso), también al aprobar un aviso de auto. 📖 Biblia: búsqueda por palabra y dos versiones a la vez (chip «+ 2ª»). 📅 Historial de lo que se cantó y se leyó cada día (Especiales). 🎵 Arreglos de estrofas (1, coro, 2, coro) sin tocar la canción. 🖼️ Logo y superposiciones fijas encima de todo (Especiales). 📡 NDI integrado: Lumera emite la ventana del proyector con audio (ya no hace falta NDI Tools) y en Ajustes elegís qué se manda; en Lumera Studio elegí la fuente «Lumera Proyector». 📊 Los PowerPoint se importan como los PDF (Presentaciones)."
+  "version": "2.4.1",
+  "url": "https://github.com/Pisciotta545/Lumera-update/releases/download/actualizador/LumeraPresent-v2.4.1.exe",
+  "notas": "Lumera Present 2.4.1 — 📡 Arreglo del NDI: si la imagen salía en negro en Lumera Studio u OBS (por ejemplo con las imágenes rápidas), ahora Lumera la toma de la pantalla del proyector. En Ajustes → Salida NDI se ve cómo se está mandando la imagen («Copiando la ventana del proyector», «Copiando de la pantalla» o por qué va en negro)."
 }
