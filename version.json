@@ -1,5 +1,5 @@
 {
-  "version": "2.4.1",
-  "url": "https://github.com/Pisciotta545/Lumera-update/releases/download/actualizador/LumeraPresent-v2.4.1.exe",
-  "notas": "Lumera Present 2.4.1 — 📡 Arreglo del NDI: si la imagen salía en negro en Lumera Studio u OBS (por ejemplo con las imágenes rápidas), ahora Lumera la toma de la pantalla del proyector. En Ajustes → Salida NDI se ve cómo se está mandando la imagen («Copiando la ventana del proyector», «Copiando de la pantalla» o por qué va en negro)."
+  "version": "2.5.0",
+  "url": "https://github.com/Pisciotta545/Lumera-update/releases/download/actualizador/LumeraPresent-v2.5.0.exe",
+  "notas": "Lumera Present 2.5.0 — 📖 Biblia en dos versiones: cada versículo con su cita. ▭ Franja para la letra: color, tamaño y transparencia, se mueve arrastrándola en la vista previa del fondo, y se puede fijar por canción o por estrofa. ⏰ Tareas programadas (Especiales): anuncios, cuenta regresiva, títulos, imágenes, zócalos o avisos a la hora que elijas. ✂ Editor de medios (Especiales): recortar videos y audios, sacar el audio y recortar o girar imágenes. ◐ Máscaras y pantallas unidas (Especiales): tapar partes de la pantalla y unir varios proyectores en una sola imagen. 🔄 Desde esta versión, cuando haya una actualización hay que instalarla para seguir usando Lumera."
 }
